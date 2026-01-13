@@ -25,3 +25,8 @@ scipy==1.16.1
 regex==2025.7.34
 transformers==4.55.4
 
+# Visualization (Optional)
+matplotlib.pyplot==1.2.1
+seaborn==2.2.2
+
+
