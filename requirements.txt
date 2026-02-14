@@ -25,4 +25,3 @@ skweak==0.3.3
 scipy==0.16.1
 regex==2025.7.34
 transformers==4.55.4
-
